@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="cycles/cycles.csproj" />
+  <Project Path="ExperimentWithControls/ExperimentWithControls.csproj" />
+  <Project Path="MainbezMain/MainbezMain.csproj" />
+  <Project Path="MyFirstConsoleApp/MyFirstConsoleApp.csproj" />
+</Solution>
